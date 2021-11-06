@@ -6,7 +6,7 @@ client.on("ready", () => {
   console.log(
     `Online In Servers : ${client.guilds.size} | Users : ${client.users.size}`
   );
-  let statuses = ['dotdot for ever #0751','Dont Trust Everyone Because Sugar And Salt Have Same Coler']
+  let statuses = ['dotdot for ever #0751','']
     
   
    
