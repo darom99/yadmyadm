@@ -1222,4 +1222,4 @@ client.on("message", message => {
 
 // Events
 
-client.login("OTA1ODQ0Nzc4NzgzMDgwNDQ4.YYQAtQ.OhhGu40brRk-rQZJkhQMQj5E4i8");
+client.login("NjkzMjkwMjMzMDYzNjY5ODIx.Xn662A.8hPzvxosw98orU67GVfDn3q2fQ");
