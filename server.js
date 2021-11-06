@@ -6,7 +6,7 @@ client.on("ready", () => {
   console.log(
     `Online In Servers : ${client.guilds.size} | Users : ${client.users.size}`
   );
-  let statuses = ['dotdot for ever #0751','']
+  let statuses = ['strong for ever','']
     
   
    
@@ -51,7 +51,7 @@ client.on("message", message => {
       );
       break;
 
-    case "<@790600594838257696>":
+    case "<>":
       message.channel.send("فــەرمـــوو    ");
   }
 });
@@ -64,12 +64,12 @@ client.on("message", msg => {
 
 client.on("message", msg => {
   if (msg.content === "Reklam") {
-    msg.reply("** farmw  https://discord.gg/99KsGZHrsv**");
+    msg.reply("** farmw  **");
   }
 });
 
 client.on("message", msg => {
-  if (msg.content === "hi") {
+  if (msg.content === "") {
     msg.reply("**baxer bey  **");
   }
 });
@@ -82,7 +82,7 @@ client.on("message", msg => {
 
 client.on("message", msg => {
   if (msg.content === "Slaw") {
-    msg.reply("**<@790600594838257696> xoy chwabt adatawa **");
+    msg.reply("**<> xoy chwabt adatawa **");
   }
 });
 
