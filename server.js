@@ -64,12 +64,13 @@ client.on("message", msg => {
 
 client.on("message", msg => {
   if (msg.content === "Reklam") {
-    msg.reply("** farmw  **");
+    msg.reply(
   }
 });
 
 client.on("message", msg => {
-  if (msg.content === "") 
+  if (msg.content === ""){
+    msg.reply"** strong  **");
   }
 });
 
